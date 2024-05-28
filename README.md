@@ -1,16 +1,18 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**serj2626/serj2626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" style="text-align: center;">
+  <a href="https://t.me/serj2626">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+    <a href="https://vk.com/seregaboytsov">
+    <img src="https://img.shields.io/badge/Вконтакте-blue?logo=VK&logoColor=white&style=for-the-badge"
+  alt="Вконтакте Badge"/>
+    </a> <br>
+    <img src="https://komarev.com/ghpvc/?username=serj2626&style=flat-square&color=green" alt=""/>
+  
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
