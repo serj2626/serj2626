@@ -17,13 +17,10 @@ alt="Вконтакте Badge"/>
 <img src="https://komarev.com/ghpvc/?username=serj2626&style=flat-square&color=green" alt=""/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
-### About Me :
+### :man_technologist:  About Me :
 
 I am a Beginner Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇷🇺
 
